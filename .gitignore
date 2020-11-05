@@ -12,3 +12,7 @@ _site/
 .bundle
 .bundle/
 vendor/
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/MrZakiakkari.github.io/v16
+/.vs/MrZakiakkari.github.io/config
